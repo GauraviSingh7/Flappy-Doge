@@ -11,3 +11,4 @@ Flappy Doge is an addictive, fun game inspired by Flappy Bird, built using **Pyg
 - **Press Space** to make Doge flap and rise into the air.
 - **Avoid hitting pipes** and see how far you can get!
 
+Still in progress.
